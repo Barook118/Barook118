@@ -2,7 +2,7 @@
 
 I'm Mubarak Mohamed, a Software Engineer and Mobile App Developer. I build web and mobile apps using React, Node.js, and Flutter. I enjoy turning ideas into real, useful products.
 
-Let's work together
+LET'S WORK TOGETHER
 
 
 
